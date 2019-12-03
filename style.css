@@ -1,0 +1,49 @@
+body{
+    padding: 0px 15px 0px 15px;
+    margin: 1px 0px 1px 0px;
+    background-color: #d6e5fa;
+    font-family: 'Solway', serif;
+   
+    
+}
+header h1{
+    text-align: center;
+    margin: 8px 0px;
+    color:#d77fa1;
+}
+header h5{
+    text-align: center;
+    margin: 5px 0px;
+    color:#d77fa1;
+}
+footer{
+   
+    text-align: center;
+    font-size: 10pt;
+}
+footer:hover{
+    color:blue;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 25%;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+main{
+    border: 3px solid #e6b2c6;
+    border-radius: 20px;
+    background-color: #fef6fb;
+    padding: 20px;
+}
+span{
+    font-weight: bold;
+    font-size: 10pt;
+}
+h3{
+    color: #6c5b7b;
+    font-size: 16pt;
+}
